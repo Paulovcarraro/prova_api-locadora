@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # prova_nest
 
 **Codigos do banco:**
@@ -24,3 +25,6 @@ INSERT INTO filmes (estilo, nome, ano, duracao, foto, sinopse, video, createdAt,
 (3, 'Invocação do Mal', '2013', '112', 'url3', 'História de terror', 'video3', NOW(), NOW()),<br>
 (4, 'À Espera de um Milagre', '1999', '189', 'url4', 'Drama emocionante', 'video4', NOW(), NOW()),<br>
 (5, 'Interestelar', '2014', '169', 'url5', 'Viagem no espaço', 'video5', NOW(), NOW());<br>
+=======
+# prova_api-locadora
+>>>>>>> 3d4634c8713a8dddc46167ffc867b04eea2d18a4
